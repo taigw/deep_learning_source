@@ -6,6 +6,8 @@ UCL reinforcement learning course given by David Silver: http://www0.cs.ucl.ac.u
    
 And vedio-lectures: https://www.youtube.com/watch?v=2pWv7GOvuf0
 
+UC Berkeley course: http://rll.berkeley.edu/deeprlcourse/
+
 2, Book
 
 "Reinforcement Learning: An Introduction" by Richard S.Sutton and Andrew G.Barto, 2012
