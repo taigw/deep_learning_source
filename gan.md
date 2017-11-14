@@ -20,3 +20,8 @@ DualGAN: DualGAN: Unsupervised Dual Learning for Image-to-Image Translation
 
 paper:https://arxiv.org/pdf/1704.02510.pdf
 code: https://github.com/duxingren14/DualGAN
+
+Progressive Growing of GANs for Improved Quality, Stability and Validation
+paper:https://arxiv.org/abs/1710.10196
+code:https://github.com/tkarras/progressive_growing_of_gans
+video:https://youtu.be/XOxxPcy5Gr4
