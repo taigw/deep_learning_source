@@ -14,3 +14,6 @@ https://medium.com/@ricardo.guerrero/deep-learning-frameworks-a-review-before-fi
 
 ## Github projects
 1, State of the art for machine learning problems https://github.com//RedditSota/state-of-the-art-result-for-machine-learning-problems
+
+## Blogs
+1, CapsNet https://mp.weixin.qq.com/s/WspmbqlwdxKXH1cgbkuGwQ
