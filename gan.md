@@ -25,3 +25,6 @@ Progressive Growing of GANs for Improved Quality, Stability and Validation
 paper:https://arxiv.org/abs/1710.10196
 code:https://github.com/tkarras/progressive_growing_of_gans
 video:https://youtu.be/XOxxPcy5Gr4
+
+An implementation of SRGAN with Wasserstein distance for super resolution
+code: https://github.com/JustinhoCHN/SRGAN_Wasserstein
