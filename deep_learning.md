@@ -1,8 +1,11 @@
-# Online Course
-## CS 20SI: Tensorflow for Deep Learning Research
+## Online Course
+1, Neural Networks and Deep Learning 
+http://neuralnetworksanddeeplearning.com/
+
+1, CS 20SI: Tensorflow for Deep Learning Research
 http://web.stanford.edu/class/cs20si/syllabus.html
 
-## CS231n: Convolutional Neural Networks for Visual Recognition
+2, CS231n: Convolutional Neural Networks for Visual Recognition
 http://cs231n.stanford.edu/
 
 ## Deep Learning Library
