@@ -12,8 +12,11 @@ https://medium.com/@ricardo.guerrero/deep-learning-frameworks-a-review-before-fi
 ## Tensorflow Tutorial
 1，TFRecords Guide: http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/
 
-## Github projects
+## Github Projects
 1, State of the art for machine learning problems https://github.com//RedditSota/state-of-the-art-result-for-machine-learning-problems
 
 ## Blogs
 1, CapsNet https://mp.weixin.qq.com/s/WspmbqlwdxKXH1cgbkuGwQ
+
+## Reading List
+1, Deeplearning.net http://deeplearning.net/reading-list/
