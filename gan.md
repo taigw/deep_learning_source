@@ -28,3 +28,6 @@ video:https://youtu.be/XOxxPcy5Gr4
 
 An implementation of SRGAN with Wasserstein distance for super resolution
 code: https://github.com/JustinhoCHN/SRGAN_Wasserstein
+
+## Review papers
+GANs for Medical Image Analysis   https://arxiv.org/pdf/1809.06222.pdf
