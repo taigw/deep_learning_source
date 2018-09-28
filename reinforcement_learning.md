@@ -8,7 +8,9 @@ And vedio-lectures: https://www.youtube.com/watch?v=2pWv7GOvuf0
 
 UC Berkeley course: http://rll.berkeley.edu/deeprlcourse/
 
+MICCAI 2018 Tutorial: https://www.hvnguyen.com/deepreinforcementlearning
 ## 2, Book
 
 "Reinforcement Learning: An Introduction" by Richard S.Sutton and Andrew G.Barto, 2012
 http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf
+
