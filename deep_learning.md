@@ -8,6 +8,8 @@ http://web.stanford.edu/class/cs20si/syllabus.html
 2, CS231n: Convolutional Neural Networks for Visual Recognition
 http://cs231n.stanford.edu/
 
+3，CS229: Machine Learning http://cs229.stanford.edu/syllabus.html
+
 ## Deep Learning Library
 1, A comparison between Thano, Tensorflow, Caffe, MXNet, Keras, Tourch and others. 
 https://medium.com/@ricardo.guerrero/deep-learning-frameworks-a-review-before-finishing-2016-5b3ab4010b06
