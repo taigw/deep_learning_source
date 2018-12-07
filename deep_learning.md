@@ -10,6 +10,8 @@ http://cs231n.stanford.edu/
 
 3，CS229: Machine Learning http://cs229.stanford.edu/syllabus.html
 
+4，Neural Networks and Machine Learning http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/
+
 ## Deep Learning Library
 1, A comparison between Thano, Tensorflow, Caffe, MXNet, Keras, Tourch and others. 
 https://medium.com/@ricardo.guerrero/deep-learning-frameworks-a-review-before-finishing-2016-5b3ab4010b06
