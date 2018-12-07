@@ -2,15 +2,15 @@
 1, Neural Networks and Deep Learning 
 http://neuralnetworksanddeeplearning.com/
 
-1, CS 20SI: Tensorflow for Deep Learning Research
+2, CS 20SI: Tensorflow for Deep Learning Research
 http://web.stanford.edu/class/cs20si/syllabus.html
 
-2, CS231n: Convolutional Neural Networks for Visual Recognition
+3, CS231n: Convolutional Neural Networks for Visual Recognition
 http://cs231n.stanford.edu/
 
-3，CS229: Machine Learning http://cs229.stanford.edu/syllabus.html
+4，CS229: Machine Learning http://cs229.stanford.edu/syllabus.html
 
-4，Neural Networks and Machine Learning http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/
+5，Neural Networks and Machine Learning http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/
 
 ## Deep Learning Library
 1, A comparison between Thano, Tensorflow, Caffe, MXNet, Keras, Tourch and others. 
