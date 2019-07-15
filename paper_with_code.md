@@ -15,11 +15,14 @@ https://github.com/voxelmorph/voxelmorph
 
 # 4, Domain adaptation
 
-Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss
+Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss (IJCAI 2018)
 https://github.com/carrenD/Medical-Cross-Modality-Domain-Adaptation
 
 Unsupervised domain adaptation for medical imaging segmentation with self-ensembling， NeuroImage, 2019
 https://github.com/neuropoly/domainadaptation
+
+Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation （AAAI 2019）
+https://github.com/cchen-cc/SIFA
 
 # 5，Reinforcement Learning
 Evaluating reinforcement learning agents for anatomical landmark detection
