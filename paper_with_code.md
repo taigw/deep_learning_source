@@ -28,6 +28,9 @@ https://github.com/cchen-cc/SIFA
 Evaluating reinforcement learning agents for anatomical landmark detection
 https://github.com/amiralansary/tensorpack-medical/tree/master/examples/LandmarkDetection/DQN
 
-# 6， Object Detection
+# 6， Object Detection / Salient Object Detection
 Efficient Multiple Organ Localization in CT Image using 3D Region Proposal Network, TMI, 2019
 https://github.com/superxuang/caffe_3d_faster_rcnn
+
+BASNet：Boundary-Aware Salient Object Detection, CVPR 2019
+https://github.com/NathanUA/BASNet
