@@ -34,3 +34,11 @@ https://github.com/superxuang/caffe_3d_faster_rcnn
 
 BASNet：Boundary-Aware Salient Object Detection, CVPR 2019
 https://github.com/NathanUA/BASNet
+
+# 7，Human Pose Estimation
+Cascaded Pyramid Network for Multi-person Pose Estimation, CVPR 2019
+https://github.com/chenyilun95/tf-cpn
+
+
+Stacked Hourglass Networks for Human Pose Estimation, ECCV 2016
+https://github.com/princeton-vl/pose-hg-train
