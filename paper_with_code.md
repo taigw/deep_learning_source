@@ -39,6 +39,10 @@ https://github.com/NathanUA/BASNet
 Cascaded Pyramid Network for Multi-person Pose Estimation, CVPR 2019
 https://github.com/chenyilun95/tf-cpn
 
+# 8, Neural Network Search
+Searching for A Robust Neural Architecture in Four GPU Hours
+https://github.com/D-X-Y/GDAS
+
 
 Stacked Hourglass Networks for Human Pose Estimation, ECCV 2016
 https://github.com/princeton-vl/pose-hg-train
